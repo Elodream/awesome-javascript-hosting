@@ -1,20 +1,20 @@
 
-# python web host
+# javascript web host
 
 this is a curated list of python web hosting
 ## contents
 
-- [python web host](#python-web-host)
-  - [django](#django)
-  - [flask](#flask)
+- [javascript web host](#javascript-web-host)
+  - [vuejs](#vuejs)
+  - [reactjs](#reactjs)
   
   
-### django
+### vuejs
  
- - [heroku](https://www.heroku.com/)
+ - [netlify](https://www.netlify.com/)
 
-### flask
+### reactjs
   
- - [heroku](https://www.heroku.com/)
+ - [heroku](https://www.netlify.com/)
  
   
