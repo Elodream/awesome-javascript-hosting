@@ -12,9 +12,11 @@ this is a curated list of python web hosting
 ### vuejs
  
  - [netlify](https://www.netlify.com/)
+ - [heroku](https://www.netlify.com/)
 
 ### reactjs
   
  - [heroku](https://www.netlify.com/)
+ - [netlify](https://www.netlify.com/)
  
   
